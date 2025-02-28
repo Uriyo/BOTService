@@ -73,7 +73,7 @@ This project implements a voice assistant bot that integrates with LiveKit to pr
 1. **Start the Bot:**
    Run the main script to launch the HTTP server:
    ```bash
-   python <script_name>.py
+   python bot.py
    ```
    The server listens on port `8080` for incoming join requests.
 
